@@ -1,0 +1,50 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+#Download_link {
+    color:aquamarine;
+    font: 16px;
+    text-align: center;
+}
+
+video {
+    display:block; 
+    margin-left:auto;
+    margin-right:auto;
+    
+
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    size: 42px;
+    text-align: center;
+}
+
+.points_interest {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    size: 21px;
+    color: gray;
+    text-align: center;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
